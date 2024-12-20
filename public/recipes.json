@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Spaghetti Carbonara",
+    "kitchen": "Italian",
+    "cooking_time": "20 minutes",
+    "image": "spaghetti-carbonara.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Chicken Tikka Masala",
+    "kitchen": "Indian",
+    "cooking_time": "40 minutes",
+    "image": "chicken-tikka-masala.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Beef Stroganoff",
+    "kitchen": "Russian",
+    "cooking_time": "30 minutes",
+    "image": "beef-stroganoff.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Vegetable Stir Fry",
+    "kitchen": "Chinese",
+    "cooking_time": "15 minutes",
+    "image": "vegetable-stir-fry.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Fish Tacos",
+    "kitchen": "Mexican",
+    "cooking_time": "25 minutes",
+    "image": "fish-tacos.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Falafel",
+    "kitchen": "Middle Eastern",
+    "cooking_time": "30 minutes",
+    "image": "falafel.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Grilled Cheese Sandwich",
+    "kitchen": "American",
+    "cooking_time": "10 minutes",
+    "image": "grilled-cheese-sandwich.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mushroom Risotto",
+    "kitchen": "Italian",
+    "cooking_time": "40 minutes",
+    "image": "mushroom-risotto.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Beef Burritos",
+    "kitchen": "Mexican",
+    "cooking_time": "35 minutes",
+    "image": "beef-burritos.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Pad Thai",
+    "kitchen": "Thai",
+    "cooking_time": "25 minutes",
+    "image": "pad-thai.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Shakshuka",
+    "kitchen": "Middle Eastern",
+    "cooking_time": "30 minutes",
+    "image": "shakshuka.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Banh Mi",
+    "kitchen": "Vietnamese",
+    "cooking_time": "20 minutes",
+    "image": "banh-mi.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Sushi Rolls",
+    "kitchen": "Japanese",
+    "cooking_time": "45 minutes",
+    "image": "sushi-rolls.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Chicken Caesar Salad",
+    "kitchen": "American",
+    "cooking_time": "20 minutes",
+    "image": "chicken-caesar-salad.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Lentil Soup",
+    "kitchen": "Mediterranean",
+    "cooking_time": "40 minutes",
+    "image": "lentil-soup.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Peking Duck",
+    "kitchen": "Chinese",
+    "cooking_time": "1 hour",
+    "image": "peking-duck.jpg"
+  }
+]
